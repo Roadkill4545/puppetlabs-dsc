@@ -27,3 +27,4 @@ vendor/
 *.user
 *.sln
 *.suo
+*.config

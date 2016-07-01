@@ -1,3 +1,8 @@
+## 2016-07-01 - Plex Release 2.0.0
+### Summary
+
+This is Plex's implementation of puppetlabs-dsc.  We update the xWebAdministration module to 1.12.0 from 1.09.0.
+
 ## 2016-03-17 - Supported Release 1.0.1
 ### Summary
 

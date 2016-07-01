@@ -1,12 +1,12 @@
 {
-  "name": "puppetlabs-dsc",
-  "version": "1.0.1",
-  "author": "Puppet Inc",
+  "name": "plex-dsc",
+  "version": "2.0.0",
+  "author": "Plex Systems",
   "summary": "PowerShell Desired State Configuration (DSC)",
   "license": "Apache-2.0",
-  "source": "https://github.com/puppetlabs/puppetlabs-dsc",
-  "project_page": "https://github.com/puppetlabs/puppetlabs-dsc",
-  "issues_url": "https://tickets.puppet.com/browse/MODULES",
+  "source": "https://github.com/Roadkill4545/puppetlabs-dsc",
+  "project_page": "https://github.com/Roadkill4545/puppetlabs-dsc",
+  "issues_url": "https://github.com/Roadkill4545/puppetlabs-dsc",
   "tags": [
     "powershell",
     "desired-state-configuration",
