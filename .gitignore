@@ -26,3 +26,4 @@ vendor/
 *.csproj
 *.user
 *.sln
+*.suo
